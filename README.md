@@ -1,4 +1,6 @@
 # sm64ex
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoltongit%2Fsm64ex.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoltongit%2Fsm64ex?ref=badge_shield)
+
 Fork of [sm64-port/sm64-port](https://github.com/sm64-port/sm64-port) with additional features. 
 
 Feel free to report bugs and contribute, but remember, there must be **no upload of any copyrighted asset**. 
@@ -28,3 +30,7 @@ For example `--savepath .` will read saves from the current directory (which not
 For building instructions, please refer to the [wiki](https://github.com/sm64pc/sm64ex/wiki).
 
 **Make sure you have MXE first before attempting to compile for Windows on Linux and WSL. Follow the guide on the wiki.**
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoltongit%2Fsm64ex.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoltongit%2Fsm64ex?ref=badge_large)
